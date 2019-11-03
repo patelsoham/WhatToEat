@@ -4,7 +4,7 @@
 With the wide variety of options for meals at the on-campus dining locations, J2 and Kins, many of our friends have expressed their concerns about having a hard time deciding what to choose to eat. Therefore, we wanted to settle this issue for once and for all.
 
 ## What it does
-Essentially, our website personalizes the user's experience by taking into account the user's dietary restrictions, daily caloric goals, and time-of-day for the meal in order to provide a personalized diet plan for a particular meal of the day.
+Essentially, our website personalizes the user's experience by taking into account the user's dietary restrictions and time-of-day for the meal in order to provide a personalized diet plan for a particular meal of the day.
 
 ## How we built it
 By inspecting a given meal for a given day at a restaurant of choice, we generate the personalized choice of dishes by looking at each dish's dietary restrictions, which is indicated next to the name of the dish, and by the number of calories given in each dish. The former ensures that all of the recommended dishes will satisfy the user's dietary restrictions, and the latter ensures a proper caloric intake. Ultimately, we decided to host all of this in a web app with a Javascript/HTML frontend and a Python backend.
