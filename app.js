@@ -8,6 +8,7 @@ let len = restrictions.length;
 let res = "";
 let dict = [];
 submit_var.addEventListener('click', function() {
+    res = "";
     for(var i = 0; i < len ; i++) {
        if(restrictions[i].type === 'checkbox') {
            if(restrictions[i].checked) {
