@@ -1,5 +1,7 @@
 # WhatToEat
 
+![](WhatToEat_Demo.gif)
+
 ## Inspiration
 With the wide variety of options for meals at the on-campus dining locations, J2 and Kins, many of our friends have expressed their concerns about having a hard time deciding what to choose to eat. Therefore, we wanted to settle this issue for once and for all.
 
